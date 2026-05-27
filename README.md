@@ -64,10 +64,10 @@ Here are some of the key projects I have worked on, showcasing different aspects
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kanokpol-Natekuakul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-git-master-kanokpol-natekuakuls-projects.vercel.app/api?username=Kanokpol-Natekuakul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanokpol-Natekuakul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats-git-master-kanokpol-natekuakuls-projects.vercel.app/api/top-langs/?username=Kanokpol-Natekuakul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
       </td>
     </tr>
     <tr>
