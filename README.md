@@ -1,10 +1,5 @@
 # Hello World! I'm POLKanokpol 👋
 
-<div align="center">
-  <img src="profile_banner.png" alt="POLKanokpol's Profile Banner" width="100%" />
-</div>
-
-<br/>
 
 <div align="center">
   <h3>✨ Full-Stack Developer & QA Automation Engineer | Creative Coding Enthusiast ✨</h3>
@@ -91,8 +86,3 @@ Here are some of the key projects I have worked on, showcasing different aspects
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kankanokpol-natekuakul) 
 - 📧 Email: kanokpol.n.natekaukul@gmail.com
 
-<br/>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Kanokpol-Natekuakul/count.svg" alt="Profile Visits" />
-</div>
