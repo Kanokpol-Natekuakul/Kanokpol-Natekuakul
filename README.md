@@ -83,6 +83,6 @@ Here are some of the key projects I have worked on, showcasing different aspects
 ### 📫 Connect With Me
 
 - 🌐 Portfolio: [kanokpol-natekuakul.github.io](https://kanokpol-natekuakul.github.io)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kankanokpol-natekuakul) 
-- 📧 Email: kanokpol.n.natekaukul@gmail.com
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kanokpol-natekuakul) 
+- 📧 Email: kanokpol.n.natekuakul@gmail.com
 
